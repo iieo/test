@@ -1,0 +1,151 @@
+# Blender MTL File: 'aufzug_joined.blend'
+# Material Count: 13
+
+newmtl Material.001
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump -o 18.599998 -7.199999 0.000000 -s 2.000000 5.400000 1.200000 G:\\Desktop\\Textures\\seamless\\full-maps\\others\\Metal\\Metal line Brushed\\MetalBrushed005_NRM_1K.jpg
+map_Kd -o 18.599998 -7.199999 0.000000 -s 2.000000 5.400000 1.200000 G:\\Desktop\\Textures\\seamless\\full-maps\\others\\Metal\\Metal line Brushed\\MetalBrushed005_COL_VAR1_1K.jpg
+
+newmtl Material.002
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump -o 18.599998 -7.199999 0.000000 -s 2.000000 5.400000 1.200000 G:\\Desktop\\Textures\\seamless\\full-maps\\others\\Metal\\Metal line Brushed\\MetalBrushed005_NRM_1K.jpg
+map_Kd -o 18.599998 -7.199999 0.000000 -s 2.000000 5.400000 1.200000 G:\\Desktop\\Textures\\seamless\\full-maps\\others\\Metal\\Metal line Brushed\\MetalBrushed005_COL_VAR1_1K.jpg
+
+newmtl default
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl door
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump -o 14.400000 0.900000 0.000000 -s 4.000000 4.000000 1.200000 G:\\Desktop\\Textures\\seamless\\full-maps\\others\\Metal\\Brushed-Metal-good\\TexturesCom_BrushedMetal_1024_normal.tiff
+map_Kd -o 14.400000 0.900000 0.000000 -s 4.000000 4.000000 1.200000 G:\\Desktop\\Textures\\seamless\\full-maps\\others\\Metal\\Brushed-Metal-good\\TexturesCom_BrushedMetal_1024_albedo.tiff
+refl -o 14.400000 0.900000 0.000000 -s 4.000000 4.000000 1.200000 G:\\Desktop\\Textures\\seamless\\full-maps\\others\\Metal\\Brushed-Metal-good\\TexturesCom_BrushedMetal_1024_metallic.tiff
+
+newmtl door.001
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump -o 14.400000 0.900000 0.000000 -s 4.000000 4.000000 1.200000 G:\\Desktop\\Textures\\seamless\\full-maps\\others\\Metal\\Brushed-Metal-good\\TexturesCom_BrushedMetal_1024_normal.tiff
+map_Kd -o 14.400000 0.900000 0.000000 -s 4.000000 4.000000 1.200000 G:\\Desktop\\Textures\\seamless\\full-maps\\others\\Metal\\Brushed-Metal-good\\TexturesCom_BrushedMetal_1024_albedo.tiff
+refl -o 14.400000 0.900000 0.000000 -s 4.000000 4.000000 1.200000 G:\\Desktop\\Textures\\seamless\\full-maps\\others\\Metal\\Brushed-Metal-good\\TexturesCom_BrushedMetal_1024_metallic.tiff
+
+newmtl front
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump -o 14.400000 0.900000 0.000000 -s 4.000000 4.000000 1.200000 G:\\Desktop\\Textures\\seamless\\full-maps\\others\\Metal\\plain-steel\\TexturesCom_Metal_SteelPlain_1K_normal.tif
+map_Kd -o 14.400000 0.900000 0.000000 -s 4.000000 4.000000 1.200000 G:\\Desktop\\Textures\\seamless\\full-maps\\others\\Metal\\plain-steel\\TexturesCom_Metal_SteelPlain_1K_albedo.tif
+refl -o 14.400000 0.900000 0.000000 -s 4.000000 4.000000 1.200000 G:\\Desktop\\Textures\\seamless\\full-maps\\others\\Metal\\plain-steel\\TexturesCom_Metal_SteelPlain_1K_metallic.tif
+
+newmtl lamp
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl light
+Ns 0.000000
+Ka 0.061404 0.061404 0.061404
+Kd 0.039883 0.069907 0.147315
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+
+newmtl mirror
+Ns 846.810001
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+
+newmtl mirror.001
+Ns 846.810001
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+
+newmtl tiles
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump -o 14.400000 0.900000 0.000000 -s 1.900000 2.000000 1.200000 G:\\Desktop\\Textures\\seamless\\full-maps\\others\\Ground\\plaster\\Plaster17_NRM_3K.jpg
+map_Kd -o 14.400000 0.900000 0.000000 -s 1.900000 2.000000 1.200000 G:\\Desktop\\Textures\\seamless\\full-maps\\others\\Ground\\plaster\\Plaster17_COL_VAR1_3K.jpg
+
+newmtl top
+Ns 39.347100
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump -bm 0.100000 -o 14.400000 0.900000 0.000000 -s 7.000000 7.000000 1.200000 G:\\Desktop\\Textures\\seamless\\Seamless wall white paint plaster stucco texture 02.jpg
+map_Kd -o 14.400000 0.900000 0.000000 -s 7.000000 7.000000 1.200000 G:\\Desktop\\Textures\\seamless\\Seamless wall white paint plaster stucco texture 02.jpg
+
+newmtl wall
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump -bm 2.000000 -o 14.400000 0.900000 0.000000 -s 5.000000 5.000000 0.000000 G:\\Desktop\\Textures\\seamless\\full-maps\\others\\Tiles\\Tiles-unregular\\Tiles05_NRM_6K.jpg
+map_Kd -o 14.400000 0.900000 0.000000 -s 5.000000 5.000000 0.000000 G:\\Desktop\\Textures\\seamless\\full-maps\\others\\Tiles\\Tiles-unregular\\Tiles05_COL_VAR1_6K.jpg
